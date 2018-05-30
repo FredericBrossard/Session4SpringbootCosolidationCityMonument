@@ -21,6 +21,7 @@ public class CityController {
 	@Inject
 	CityServiceImpl cityService;
 	
+	
 	/* CODE JavaScript à lancer depuis la console HTML
 	var xmlhttp = new XMLHttpRequest();
 	xmlhttp.open("POST", "/city/");

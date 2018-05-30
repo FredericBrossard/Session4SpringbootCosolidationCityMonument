@@ -6,4 +6,5 @@ public interface MonumentService {
 
 	public Monument saveMonument(Monument monument);
 	
+	
 }

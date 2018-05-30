@@ -9,5 +9,6 @@ public class Session4ProjetSpringCosolidationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Session4ProjetSpringCosolidationApplication.class, args);
+		
 	}
 }

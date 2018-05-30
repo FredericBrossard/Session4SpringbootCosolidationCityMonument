@@ -16,6 +16,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="City")
 public class City {
+	
 	@Id
 	@GeneratedValue
 	private Long id;
